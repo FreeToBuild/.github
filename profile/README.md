@@ -3,6 +3,10 @@
 **Build where you stand. No one’s permission required.**
 
 [![#FreeToBuild](https://img.shields.io/badge/Join_the_Revolution-%23FreeToBuild-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/hashtag/FreeToBuild)
+[![Follow on X](https://img.shields.io/badge/Follow-@FreeeToBuild-111111?style=flat&logo=x&logoColor=white)](https://x.com/FreeeToBuild)
+[![Follow on TikTok](https://img.shields.io/badge/TikTok-@freetobuild-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@freetobuild)
+[![Follow on Instagram](https://img.shields.io/badge/Instagram-@freeetobuild-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/freeetobuild/)
+[![Subscribe on YouTube](https://img.shields.io/badge/YouTube-@FreeeToBuild-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@FreeeToBuild)
 
 ---
 
