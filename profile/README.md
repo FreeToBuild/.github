@@ -7,6 +7,7 @@
 [![Follow on TikTok](https://img.shields.io/badge/TikTok-@freetobuild-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@freetobuild)
 [![Follow on Instagram](https://img.shields.io/badge/Instagram-@freeetobuild-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/freeetobuild/)
 [![Subscribe on YouTube](https://img.shields.io/badge/YouTube-@FreeeToBuild-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@FreeeToBuild)
+[![Follow on Bluesky](https://img.shields.io/badge/Bluesky-@freetobuild.bsky.social-0285FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/freetobuild.bsky.social)
 
 ---
 
